@@ -1,0 +1,65 @@
+swiggy dinner order,Food
+zomato lunch,Food
+dominos pizza,Food
+cafe coffee day,Food
+grocery shopping,Food
+bigbasket vegetables,Food
+blinkit groceries,Food
+restaurant bill,Food
+chai and snacks,Food
+biryani takeaway,Food
+mcdonalds burger,Food
+milk and eggs,Food
+bakery cake,Food
+uber ride to college,Transport
+ola cab to airport,Transport
+rapido bike taxi,Transport
+petrol for bike,Transport
+metro card recharge,Transport
+bus pass,Transport
+auto rickshaw fare,Transport
+train ticket,Transport
+fuel refill,Transport
+parking fee,Transport
+flight ticket,Transport
+monthly rent,Housing
+house rent payment,Housing
+hostel fee,Housing
+maintenance charges,Housing
+pg rent,Housing
+society maintenance,Housing
+electricity bill,Utilities
+wifi recharge,Utilities
+mobile recharge,Utilities
+internet broadband bill,Utilities
+water bill,Utilities
+gas cylinder,Utilities
+jio recharge,Utilities
+airtel postpaid bill,Utilities
+netflix subscription,Entertainment
+movie tickets,Entertainment
+spotify premium,Entertainment
+amazon prime,Entertainment
+hotstar subscription,Entertainment
+gaming purchase,Entertainment
+concert tickets,Entertainment
+youtube premium,Entertainment
+online course purchase,Education
+udemy course,Education
+textbook purchase,Education
+tuition fee,Education
+exam fee,Education
+coursera subscription,Education
+stationery and notebooks,Education
+college fee,Education
+amazon order,Shopping
+myntra clothes,Shopping
+new shoes,Shopping
+flipkart purchase,Shopping
+headphones,Shopping
+tshirt purchase,Shopping
+pharmacy medicines,Health
+doctor consultation,Health
+gym membership,Health
+medical checkup,Health
+dental visit,Health
